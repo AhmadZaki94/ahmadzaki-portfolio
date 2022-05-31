@@ -16,22 +16,22 @@ export const Aboutus = () => {
     const classes = useStyles();
  const cardMediaArr = [
      {
-         Icon: "https://maxcdn.icons8.com/Color/PNG/512/Logos/html_5-512.png",
+         Icon: "https://cdn-icons-png.flaticon.com/512/732/732212.png",
          label: "HTML",
          
      },
      {
-        Icon: "https://maxcdn.icons8.com/Share/icon/Logos/css31600.png",
+        Icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png",
         label: "CSS",
         
      },
      {
-        Icon: "https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png",
+        Icon: "https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png", 
         label: "JS",
         
      },
      {
-        Icon: "https://i.pinimg.com/originals/be/44/63/be446376fa788d1a97c7e639d20118a0.png",
+        Icon: "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png", 
         label: "React",
         
      },
@@ -102,3 +102,8 @@ export const Aboutus = () => {
         </Box>
     )
 }
+
+
+
+
+//https://i.pinimg.com/originals/be/44/63/be446376fa788d1a97c7e639d20118a0.png
