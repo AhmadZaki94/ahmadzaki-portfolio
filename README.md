@@ -6,14 +6,17 @@
 
 ### Screenshots
 #### Welcome page-
-![alt text](https://github.com/tauseef-stack/my-portfolio/blob/master/src/Images/Screenshot%20(976).png)
-#### About page-
-![alt text](https://github.com/tauseef-stack/my-portfolio/blob/master/src/Images/Screenshot%20(977).png)
-#### Projects page-
-![alt text](https://github.com/tauseef-stack/my-portfolio/blob/master/src/Images/Screenshot%20(978).png)
-#### Contact page-
-![alt text](https://github.com/tauseef-stack/my-portfolio/blob/master/src/Images/Screenshot%20(979).png)
+![welcome page](https://user-images.githubusercontent.com/95961349/159045667-8552e32b-39b7-44df-b005-55d3be11c57f.png)
 
+#### About page-
+![about](https://user-images.githubusercontent.com/95961349/159045903-b0d0eafb-57d6-4934-a4ba-7d2c89858d3d.png)
+
+
+#### Projects page-
+![projects](https://user-images.githubusercontent.com/95961349/159046021-dbec90c7-9897-4a5f-9664-99a7074e49da.png)
+
+#### Contact page-
+![contact](https://user-images.githubusercontent.com/95961349/159045930-b76f89e6-fe72-4367-adfb-f838d40981e7.png)
 
 
 ### Pages Designed:
