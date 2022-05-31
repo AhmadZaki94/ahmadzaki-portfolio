@@ -9,14 +9,14 @@ import ScrollAnimation from 'react-animate-on-scroll';
 // import ArrowForwardIcon from '@material-ui/icons/ArrowForward';
 
 import image1 from "../../Images/Dunzo.png";
-import image2 from "../../Images/Dunzo.png";
+import image2 from "../../Images/Swiggy_Home.png";
 import image3 from "../../Images/Uboric.png";
 
 export const Portfolio = () => {
     const classes = useStyles();
     const portfolioData = [
-        {url:image1,title:"Dunzo",visitLink:"https://bheema-284.github.io/dunzoclone/homepage/homepage.html",git:"https://github.com/AhmadZaki94/Dunzo-Clone.git",ptitle:"Dunzo",desc:"A web application that delivers foods and groceries.",stack:"HTML | CSS | Java Script."},
-        {url:image2,title:"Dunzo backend",visitLink:"https://sid283.github.io/dunzo_clone/homepage/index.html",git:"https://github.com/AhmadZaki94/Dunzo_backend.git",ptitle:"Dunzo backend",desc:"A web application that delivers foods and groceries.",stack:"HTML | CSS | Java Script | herokku."},
+        {url:image1,title:"Dunzo",visitLink:"https://sid283.github.io/dunzo_clone/homepage/index.html",git:"https://github.com/AhmadZaki94/Dunzo_backend.git",ptitle:"Dunzo",desc:"A web application that delivers foods and groceries.",stack:"HTML | CSS | Java Script."},
+        {url:image2,title:"Swiggy",visitLink:"https://swiggy-kappa.vercel.app/",git:"https://github.com/AhmadZaki94/Swiggy_frontend.git",ptitle:"Swiggy",desc:"A web application that delivers foods",stack:"HTML | CSS | Java Script | React | NodeJS | herokku."},
         {url:image3,title:"Uboric",visitLink:"https://uboricproject.vercel.app/index.html",git:"https://github.com/i-am-parihar/Project-.git",ptitle:"Uboric",desc:"Clone of website that delivers lifestyle products",stack:"HTML | CSS | Java Script."},
      
     ]
