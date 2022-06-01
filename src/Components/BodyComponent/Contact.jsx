@@ -42,9 +42,9 @@ export const Contact = () => {
            desc:"https://www.linkedin.com/in/zakishaikh10/"
         },
         {
-            Icon: <Link href="https://drive.google.com/file/d/1Lq2F4kJh1PlRkKZN97HDPjO6SfaYcOFj/view?usp=sharing" target="_blank" underline="hover" style={{color:"#fff"}}><ReorderRoundedIcon/></Link>,
+            Icon: <Link href="https://drive.google.com/file/d/1TMqneB2PF-9119JdTzee6MI8NtNIwJvk/view?usp=sharing" target="_blank" underline="hover" style={{color:"#fff"}}><ReorderRoundedIcon/></Link>,
             label: "Resume",
-            desc:"https://drive.google.com/file/d/1Lq2F4kJh1PlRkKZN97HDPjO6SfaYcOFj/view?usp=sharing"
+            desc:"https://drive.google.com/file/d/1TMqneB2PF-9119JdTzee6MI8NtNIwJvk/view?usp=sharing"
         },
    ]
     return (
